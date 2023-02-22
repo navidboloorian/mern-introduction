@@ -8,4 +8,8 @@ Over the course of this guide, we will be creating a full-stack todo list applic
 With all that out of the way, let's get started with the frontend and React.
 
 ### React
+React is built on a philosophy of modular design with components. This approach significantly condenses our code and prevents us from reinventing the wheel as components can be reused with ease in a "plug-and-play" manner.
+
+I recommend looking at the figma and brainstorming the different components that you will need to create. For instance, on implementation might have an input component, a list component, and an individual task component. 
+
 To be continued...
