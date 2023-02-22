@@ -1,0 +1,16 @@
+.inputField
+{
+    box-sizing: border-box;
+    box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+    align-self: end;
+    width: 80vw;
+    max-width: 800px;
+    margin-bottom: 20px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #b8b8b8;
+    border: 0px;
+}
