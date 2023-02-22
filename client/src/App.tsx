@@ -1,9 +1,10 @@
-import React from "react";
+import React from 'react';
 import {Route, Routes} from 'react-router-dom';
+import styles from './styles/App.module.css';
 
 const App = () => {
     return (
-        <p>Welcome!</p>
+        <>Hello!</>
     );
 };
 
